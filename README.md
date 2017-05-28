@@ -1,3 +1,3 @@
 # CMSC320
-# Final tutorial
+# Final Group tutorial
 # https://linchenqian.github.io/FinalProject#lib
